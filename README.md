@@ -24,4 +24,4 @@ npm run build
 npm run start
 ```
 
-Anywhere you lost, contact : (Amir H. Ebrahimi)[mail.amirhosseinebrahimi@gmail.com]
+Anywhere you lost, contact : [Amir H. Ebrahimi](mail.amirhosseinebrahimi@gmail.com)
